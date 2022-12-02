@@ -1,5 +1,5 @@
 # ProyectoFinal
-Proyecto final, teoría de la computación
+Proyecto final, teoría de la computación, reproductor de múscica por cmd
 # Configuración de la consola de comandos:
 	Fuente Consolas: #18 {8 x18}
 	Cursor: pequeño
